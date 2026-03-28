@@ -1,9 +1,9 @@
-# oss-audit-24BAI10259
+# oss-audit-24BCY10226
 # The Open Source Audit — Git
 ### Open Source Software (OSS) Capstone Project
 **Course:** Open Source Software | VITyarthi
-**Student Name:** Daksh Maru
-**Roll Number:** 24BCE11514
+**Student Name:** ANJALI PATNI
+**Roll Number:** 24BCY10226
 **Chosen Software:** Git (Licensed under GPL v2)
 
 ---
